@@ -1,2 +1,2 @@
 # hello-world
-Testing the system
+Testing the system according to the guide
